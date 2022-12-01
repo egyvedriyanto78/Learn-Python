@@ -1,2 +1,2 @@
-# Learn-Python
+# My-Python-Project
 Basic Python
